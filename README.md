@@ -6,16 +6,16 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 - Objectives of Monitoring
 - 
 
-## Monitoring Systems and Techniques
+## II. Monitoring Systems and Techniques
 - Implementing Monitoring
 - Monitoring Techniques
 
-## Methodologies and Tools in Logging
+## III. Methodologies and Tools in Logging
 - Logging
 - Logging Implementation
 - Introduction to Mezmo
 
-## Observability and Concepts
+## IV. Observability and Concepts
 - Observability
 - Tracing using Open Telemetry
 - 
