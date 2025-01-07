@@ -39,6 +39,12 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
     ![image](https://github.com/user-attachments/assets/e19759de-b292-4ab3-9cdc-96b7e2c8807a)
     ![image](https://github.com/user-attachments/assets/3333ede0-7985-4aff-a4f4-bbc9434b0be4)
 
+  - components of monitoring
+    ![image](https://github.com/user-attachments/assets/712ce8e3-dc75-4814-9046-f8895b857e68)
+    ![image](https://github.com/user-attachments/assets/0ecc86ee-3a38-4d7d-8ceb-4cfbd3ec8e94)
+
+
+
      
   
   
