@@ -56,6 +56,10 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
     - external dependency metrics
       ![image](https://github.com/user-attachments/assets/631dfe20-ad2d-40cd-b1e5-9d0fb3752728)
 
+  - importance of monitoring
+    ![image](https://github.com/user-attachments/assets/399da906-e629-4e91-b5f6-5a4e55bf1568)
+
+
       
     
 
