@@ -34,15 +34,13 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
        ![image](https://github.com/user-attachments/assets/9b710220-d2b2-41ae-bd5f-0bd7904c3d0d)
      ![image](https://github.com/user-attachments/assets/0e34a11e-32a8-4e19-8633-2d29ec463199)
 
-       
-
-      
-
-
- 
-    
-
 - (2) Objectives of Monitoring
+  - monitoring and evaluation difference
+    ![image](https://github.com/user-attachments/assets/e19759de-b292-4ab3-9cdc-96b7e2c8807a)
+    ![image](https://github.com/user-attachments/assets/3333ede0-7985-4aff-a4f4-bbc9434b0be4)
+
+     
+  
   
 
   
