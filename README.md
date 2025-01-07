@@ -4,8 +4,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 ## I. Introduction to Monitoring for Applications
 - (1) Monitoring Basics
 - (2) Objectives of Monitoring
-- 
-
+  
 ## II. Monitoring Systems and Techniques
 - (1) Implementing Monitoring
 - (2) Monitoring Techniques
