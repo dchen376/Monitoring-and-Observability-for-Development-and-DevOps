@@ -43,6 +43,21 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
     ![image](https://github.com/user-attachments/assets/712ce8e3-dc75-4814-9046-f8895b857e68)
     ![image](https://github.com/user-attachments/assets/0ecc86ee-3a38-4d7d-8ceb-4cfbd3ec8e94)
 
+  - types of metrics in a monitoring system
+    ![image](https://github.com/user-attachments/assets/9b39da75-474f-4100-93b4-5755002b3342)
+    - host-based metrics
+      ![image](https://github.com/user-attachments/assets/6df5aab7-b261-4608-a0fb-cd63a56c9b42)
+    - application metrics
+      ![image](https://github.com/user-attachments/assets/c0418c20-b777-4480-9951-d008f3dbf1e2)
+    - network and connectivity metrics
+      ![image](https://github.com/user-attachments/assets/0fb6f5ec-6c64-42b2-8fd8-1f6958fdfc10)
+    - server pool metrics
+      ![image](https://github.com/user-attachments/assets/20867e8f-0e7c-4682-91cb-9a792312dc34)
+    - external dependency metrics
+      ![image](https://github.com/user-attachments/assets/631dfe20-ad2d-40cd-b1e5-9d0fb3752728)
+
+      
+    
 
 
      
