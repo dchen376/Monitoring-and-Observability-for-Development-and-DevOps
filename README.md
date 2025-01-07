@@ -3,9 +3,12 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 
 ## I. Introduction to Monitoring for Applications
 - (1) Monitoring Basics
-  ![image](https://github.com/user-attachments/assets/00da4b0e-d3ce-45b1-8fb3-cedeb090fd07)
+  ![image](https://github.com/user-attachments/assets/4f25f8d7-79ca-45fe-a3fb-c7d6667f075a)
+  - evaluation of application
 
 - (2) Objectives of Monitoring
+  ![image](https://github.com/user-attachments/assets/aff142b5-004f-4f1c-a105-1948a639c456)
+
   
 ## II. Monitoring Systems and Techniques
 - (1) Implementing Monitoring
