@@ -7,6 +7,12 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
   - evaluation of application
     ![image](https://github.com/user-attachments/assets/aff142b5-004f-4f1c-a105-1948a639c456)
 
+  - types of monitoring
+    - system monitoring
+      ![image](https://github.com/user-attachments/assets/1ccca0e8-2165-47ab-af89-db756960a03f)
+ 
+    
+
 - (2) Objectives of Monitoring
   
 
