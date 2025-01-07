@@ -28,6 +28,14 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
     - **security monitoring**
       ![image](https://github.com/user-attachments/assets/7c0a0278-df6d-4763-a923-e83440613115)
 
+  - Four Golden Signals of Monitoring
+     ![image](https://github.com/user-attachments/assets/386b95c9-0d75-47b9-98ca-d08b25ea9c71)
+     - latency (request and response)
+       ![image](https://github.com/user-attachments/assets/9b710220-d2b2-41ae-bd5f-0bd7904c3d0d)
+     ![image](https://github.com/user-attachments/assets/0e34a11e-32a8-4e19-8633-2d29ec463199)
+
+       
+
       
 
 
