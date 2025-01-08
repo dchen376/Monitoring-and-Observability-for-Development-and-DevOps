@@ -82,6 +82,8 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
   - alerting in monitoring
     ![image](https://github.com/user-attachments/assets/75f65afe-4ccf-4e04-a60e-c2d4b787d7a8)
     ![image](https://github.com/user-attachments/assets/77fb8dc1-f2be-4e38-9bfa-5dcfd4f93891)
+    ![image](https://github.com/user-attachments/assets/69f74298-4416-46ca-863c-00ed50a900af)
+
 
 
     
