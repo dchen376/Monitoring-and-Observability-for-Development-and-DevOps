@@ -59,19 +59,23 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
   - importance of monitoring
     ![image](https://github.com/user-attachments/assets/399da906-e629-4e91-b5f6-5a4e55bf1568)
 
-
-      
-    
-
-
-     
-  
-  
-
   
 ## II. Monitoring Systems and Techniques
 - (1) Implementing Monitoring
+  - synthetic monitoring (active monitoring)
+    - Real user monitoring(**RUM**) vs. synthetic monitroing(**SM**)
+  - tools
+    ![image](https://github.com/user-attachments/assets/eb025438-ed3d-48b6-bf23-9bcb85f98a77)
+  - application monitoring
+    ![image](https://github.com/user-attachments/assets/8c0d7613-3789-4aaa-b956-93034410df2e)
+    - telemetry monitored (system data auto gathered for moinitoring)
+    - **Prometheus** (open source monitoring and alerting solution)
+      ![image](https://github.com/user-attachments/assets/b40db4cb-f82a-4b20-b112-38afc6d1b364)
+
+
+ 
 - (2) Monitoring Techniques
+- 
 
 ## III. Methodologies and Tools in Logging
 - (1) Logging
