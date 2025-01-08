@@ -71,6 +71,9 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
     - telemetry monitored (system data auto gathered for moinitoring)
   - **Prometheus** (open source monitoring and alerting solution)
       ![image](https://github.com/user-attachments/assets/b40db4cb-f82a-4b20-b112-38afc6d1b364)
+  - choosing the right application monitoring (**APM**) tool
+    ![image](https://github.com/user-attachments/assets/a20e3218-2590-48c9-8511-280a99c5a889)
+  - Grafana (corss-platform, open-source data visualization and metrics analysis tool)
 
 
  
