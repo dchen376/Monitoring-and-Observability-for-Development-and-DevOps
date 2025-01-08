@@ -74,11 +74,18 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
   - choosing the right application monitoring (**APM**) tool
     ![image](https://github.com/user-attachments/assets/a20e3218-2590-48c9-8511-280a99c5a889)
   - **Grafana** (corss-platform, open-source data **visualization and metrics analysis tool**)
-
-
  
 - (2) Monitoring Techniques
-- 
+  - using Visualization in Monitoring
+    ![image](https://github.com/user-attachments/assets/e7d9d2ce-c48c-493d-8a3a-092ac441d8be)
+    ![image](https://github.com/user-attachments/assets/c4957430-11b5-439a-868b-52ae3fb35164)
+  - alerting in monitoring
+    ![image](https://github.com/user-attachments/assets/75f65afe-4ccf-4e04-a60e-c2d4b787d7a8)
+    ![image](https://github.com/user-attachments/assets/77fb8dc1-f2be-4e38-9bfa-5dcfd4f93891)
+
+
+    
+
 
 ## III. Methodologies and Tools in Logging
 - (1) Logging
