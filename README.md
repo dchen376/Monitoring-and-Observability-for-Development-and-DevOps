@@ -69,7 +69,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
   - application monitoring
     ![image](https://github.com/user-attachments/assets/8c0d7613-3789-4aaa-b956-93034410df2e)
     - telemetry monitored (system data auto gathered for moinitoring)
-    - **Prometheus** (open source monitoring and alerting solution)
+  - **Prometheus** (open source monitoring and alerting solution)
       ![image](https://github.com/user-attachments/assets/b40db4cb-f82a-4b20-b112-38afc6d1b364)
 
 
