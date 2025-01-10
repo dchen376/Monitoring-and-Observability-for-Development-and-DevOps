@@ -89,14 +89,27 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 
 ## III. Methodologies and Tools in Logging
 - (1) Logging
-  - 
+  
   
   ![image](https://github.com/user-attachments/assets/a7145c12-4294-43b4-818e-b0f087d96c09)
 
   ![image](https://github.com/user-attachments/assets/f983ea9a-fea1-4cfc-b6e1-af1e523faf43)
 
   ![image](https://github.com/user-attachments/assets/5a73c650-93b0-4050-9cb2-8a6a68ccbbb9)
-  - log monitoring tools
+  - log monitoring tools (alerts and reports)
+    ![image](https://github.com/user-attachments/assets/7a22b23d-f5cd-4a7a-802e-40236e81b353)
+
+    **Mezmo**:
+    ![image](https://github.com/user-attachments/assets/a259049b-605b-4fb4-977b-f63dfa83ffe8)
+
+    **Sumo Logic**:
+    ![image](https://github.com/user-attachments/assets/1f681c53-6c71-4d03-9ff5-92e5243f16b5)
+
+    **Instana**:
+    ![image](https://github.com/user-attachments/assets/835833d6-f091-40b0-a1bd-be372795ddd1)
+
+
+   
     
 
   
