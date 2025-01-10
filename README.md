@@ -115,6 +115,8 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
     ![image](https://github.com/user-attachments/assets/f0aa9379-c7d8-488b-8684-30ef5dc66fe6)
 
     ![image](https://github.com/user-attachments/assets/2a2dacaa-81a6-41e2-8afb-c45364b8378b)
+    ![image](https://github.com/user-attachments/assets/6cb4641c-9302-44a9-bee1-a8c314615880)
+
 
     ![image](https://github.com/user-attachments/assets/e3c9846f-30b5-4ca5-806c-3a03d6813b0c)
 
