@@ -90,16 +90,18 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 ## III. Methodologies and Tools in Logging
 - (1) Logging
   ![image](https://github.com/user-attachments/assets/1442c714-6b6b-4ee6-bfa4-bd932ff1235e)
-  ![image](https://github.com/user-attachments/assets/570b03d8-11d1-4154-8640-9dcd2c0e4314)
-
-  - log storage
-    ![image](https://github.com/user-attachments/assets/23b9b40c-0598-46bd-af61-b638d5611e2d)
+  ets/23b9b40c-0598-46bd-af61-b638d5611e2d)
   - log analyzer (e.g. CloudVyzor LogPad)
 
     
 
 
 - (2) Logging Implementation
+  ![image](https://github.com/user-attachments/assets/570b03d8-11d1-4154-8640-9dcd2c0e4314)
+
+  - log storage
+    ![image](https://github.com/user-attachments/ass
+    
 - (3) Introduction to Mezmo
 
 ## IV. Observability and Concepts
