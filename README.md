@@ -89,14 +89,14 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 
 ## III. Methodologies and Tools in Logging
 - (1) Logging
+  - 
   
   ![image](https://github.com/user-attachments/assets/a7145c12-4294-43b4-818e-b0f087d96c09)
 
   ![image](https://github.com/user-attachments/assets/f983ea9a-fea1-4cfc-b6e1-af1e523faf43)
 
- ![image](https://github.com/user-attachments/assets/5a73c650-93b0-4050-9cb2-8a6a68ccbbb9)
-
-    - log monitoring tools
+  ![image](https://github.com/user-attachments/assets/5a73c650-93b0-4050-9cb2-8a6a68ccbbb9)
+  - log monitoring tools
     
 
   
