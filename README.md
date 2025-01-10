@@ -90,6 +90,8 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 ## III. Methodologies and Tools in Logging
 - (1) Logging
   ![image](https://github.com/user-attachments/assets/1442c714-6b6b-4ee6-bfa4-bd932ff1235e)
+  ![image](https://github.com/user-attachments/assets/a7145c12-4294-43b4-818e-b0f087d96c09)
+
   
   
 
