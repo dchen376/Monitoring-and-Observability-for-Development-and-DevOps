@@ -111,7 +111,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
     **Datadog**:
     ![image](https://github.com/user-attachments/assets/e34b1fb9-a29e-4cb6-8787-36fa7aec7a70)
 
-  - **distributed logging**and **distrubuted Tracing**
+  - **distributed logging** and **distrubuted Tracing**
     ![image](https://github.com/user-attachments/assets/f0aa9379-c7d8-488b-8684-30ef5dc66fe6)
 
     ![image](https://github.com/user-attachments/assets/2a2dacaa-81a6-41e2-8afb-c45364b8378b)
