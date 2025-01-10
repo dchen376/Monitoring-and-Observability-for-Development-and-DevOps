@@ -96,6 +96,9 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 
  ![image](https://github.com/user-attachments/assets/5a73c650-93b0-4050-9cb2-8a6a68ccbbb9)
 
+  - log monitoring tools
+    
+
   
 
     
