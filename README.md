@@ -146,7 +146,29 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
   
 
 ## IV. Observability and Concepts
-- (1) Observability
+- (1) Observability (enable faster identification of issues)
+
+  ![image](https://github.com/user-attachments/assets/26ba9c7a-491b-456a-b771-850c170cb54c)
+
+    - threee pillars of observability
+      - logs (records of events)
+      - metrics (real-time operating data)
+      - traces (information pathways of workflows records)
+        ![image](https://github.com/user-attachments/assets/a4edae99-6d10-4f63-b7ed-489f902e3017)
+
+    - cloud native observability
+      ![image](https://github.com/user-attachments/assets/68b7f4a6-2230-45d3-ac80-4bab4fcfc7e6)
+
+      ![image](https://github.com/user-attachments/assets/6033ef5c-bfe3-4621-8fbe-34a5b24362f0)
+
+      
+        
+
+        
+      
+
+  
+  
 - (2) Tracing using Open Telemetry
 - (3) monitoring containers
 
