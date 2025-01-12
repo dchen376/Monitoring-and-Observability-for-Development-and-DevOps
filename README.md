@@ -138,7 +138,12 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
     ![image](https://github.com/user-attachments/assets/23b9b40c-0598-46bd-af61-b638d5611e2d)
   - log analyzer (e.g. CloudVyzor LogPad)
     
-- (3) Introduction to Mezmo
+- (3) Introduction to **Mezmo**
+  ![image](https://github.com/user-attachments/assets/343a9886-4aa2-4bb3-9e10-1b6972cab81f)
+
+  ![image](https://github.com/user-attachments/assets/14a3a9b8-fc82-4560-b105-843704e26f2d)
+
+  
 
 ## IV. Observability and Concepts
 - (1) Observability
