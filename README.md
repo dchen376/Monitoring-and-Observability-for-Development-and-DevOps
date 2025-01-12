@@ -148,6 +148,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 ## IV. Observability and Concepts
 - (1) Observability
 - (2) Tracing using Open Telemetry
+- (3) monitoring containers
 
 
 ## V. Final Assessment
