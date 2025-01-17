@@ -151,9 +151,9 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
   ![image](https://github.com/user-attachments/assets/26ba9c7a-491b-456a-b771-850c170cb54c)
 
     - three pillars of observability
-      - logs (records of events)
-      - metrics (real-time operating data)
-      - traces (information pathways of workflows records)
+      - **logs** (records of events)
+      - **metrics** (real-time operating data)
+      - **traces** (information pathways of workflows records)
         ![image](https://github.com/user-attachments/assets/a4edae99-6d10-4f63-b7ed-489f902e3017)
 
     - cloud native observability
@@ -183,8 +183,9 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
       ![image](https://github.com/user-attachments/assets/99f76938-bcb7-4fe2-8c41-2da1005eb134)
 
 
-    - IBM Instana
-      
+    - IBM Instana ( a fully automated application performance management (**APM**) solution)
+      ![image](https://github.com/user-attachments/assets/797d2cc2-1e49-4bc3-b239-b6dd13bb2261)
+
 
       
     
