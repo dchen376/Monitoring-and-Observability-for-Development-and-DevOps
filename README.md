@@ -222,9 +222,9 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 
     ![image](https://github.com/user-attachments/assets/b8909d32-62ff-42d7-9d99-66454684226e)
 
-![image](https://github.com/user-attachments/assets/91b616be-544b-438a-9386-3c69c00e766a)
+    ![image](https://github.com/user-attachments/assets/91b616be-544b-438a-9386-3c69c00e766a)
 
-    - openTelemetry
+  - openTelemetry
 
     
 
