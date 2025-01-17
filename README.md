@@ -183,7 +183,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
       ![image](https://github.com/user-attachments/assets/99f76938-bcb7-4fe2-8c41-2da1005eb134)
 
 
-    - IBM Instana ( a fully automated application performance management (**APM**) solution)
+    - IBM Instana ( a fully automated **application performance management** (**APM**) solution)
       ![image](https://github.com/user-attachments/assets/797d2cc2-1e49-4bc3-b239-b6dd13bb2261)
 
 
@@ -199,6 +199,29 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
   ![image](https://github.com/user-attachments/assets/26b9c3ad-1e50-4015-8efe-590a50dc003a)
 
   ![image](https://github.com/user-attachments/assets/fb09f487-ad54-426e-abeb-158e7060a99b)
+
+  - **telemetry tools** (macro view)
+    ![image](https://github.com/user-attachments/assets/ea91350b-a250-4dc8-af1e-87183bc5bd07)
+
+    ![image](https://github.com/user-attachments/assets/0ddd598e-b4ae-45a9-add8-6d3f3c6401f2)
+
+    ![image](https://github.com/user-attachments/assets/b31c5714-e69b-49c9-9e8a-42c4c1246f11)
+
+    ![image](https://github.com/user-attachments/assets/b9c7ae81-b430-41d6-9e02-8205b2480769)
+
+    ![image](https://github.com/user-attachments/assets/44f9d6d8-753a-4c48-a6e4-4a4a722ba57c)
+
+    ![image](https://github.com/user-attachments/assets/51d548ac-4224-4918-9c44-b4840b2d704b)
+
+  - **distributed tracing tools** (micro view)
+  - 
+
+
+    
+
+
+
+
 
   
 
