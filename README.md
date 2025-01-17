@@ -176,9 +176,13 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
       ![image](https://github.com/user-attachments/assets/56e61a41-08a9-4df4-9c63-7899cec69b73)
 
 
-    - introduction to  **Sampling**
+    - introduction to  **Sampling** (only a subset of log events for analysis / storage)
 
- 
+       ![image](https://github.com/user-attachments/assets/f761f02c-549f-4fe8-92a7-2b88a2b2d4f7)
+
+      ![image](https://github.com/user-attachments/assets/99f76938-bcb7-4fe2-8c41-2da1005eb134)
+
+      
       
 
       
