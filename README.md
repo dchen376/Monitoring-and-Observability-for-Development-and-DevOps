@@ -234,7 +234,13 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
   
 - (3) monitoring containers
   - tracing for container-based applications
-  - 
+    ![image](https://github.com/user-attachments/assets/4ba589be-d998-4d9c-8c33-566e2247ff3b)
+
+    ![image](https://github.com/user-attachments/assets/669da86c-2f2d-4eef-8a4e-2bde5c5564b2)
+
+    ![image](https://github.com/user-attachments/assets/038d570f-8e67-494a-87ec-62f1d46aec14)
+
+
   - lab: Kubernetes configuration for tracing
   
 
