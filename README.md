@@ -150,7 +150,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 
   ![image](https://github.com/user-attachments/assets/26ba9c7a-491b-456a-b771-850c170cb54c)
 
-    - threee pillars of observability
+    - three pillars of observability
       - logs (records of events)
       - metrics (real-time operating data)
       - traces (information pathways of workflows records)
@@ -161,8 +161,10 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 
       ![image](https://github.com/user-attachments/assets/6033ef5c-bfe3-4621-8fbe-34a5b24362f0)
 
+    - 
+
       
-        
+    
 
         
       
