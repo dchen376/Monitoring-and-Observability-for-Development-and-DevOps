@@ -195,7 +195,9 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 
   
   
-- (2) Tracing using Open Telemetry
+- (2) Tracing using Open **Telemetry** (automated process of collecting, transmitting, and analyzing data from systems, applications, or devices)
+
+  
 - (3) monitoring containers
 
 
