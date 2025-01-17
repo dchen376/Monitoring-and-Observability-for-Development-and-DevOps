@@ -201,6 +201,8 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
   ![image](https://github.com/user-attachments/assets/fb09f487-ad54-426e-abeb-158e7060a99b)
 
   - **telemetry tools** (macro view)
+    e.g. Datadog, Dynatrace, New Relic, Sumo Logic, Splunk, and Instana.
+    
     ![image](https://github.com/user-attachments/assets/ea91350b-a250-4dc8-af1e-87183bc5bd07)
 
     ![image](https://github.com/user-attachments/assets/0ddd598e-b4ae-45a9-add8-6d3f3c6401f2)
@@ -214,6 +216,7 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
     ![image](https://github.com/user-attachments/assets/51d548ac-4224-4918-9c44-b4840b2d704b)
 
   - **distributed tracing tools** (micro view)
+    e.g. Atatus, SigNoz, Jaeger, Zipkin, HoneyComb, New Relic, and Dynatrace.
     ![image](https://github.com/user-attachments/assets/eeb2d9d0-6574-40c8-81c9-41f286b6e815)
 
     ![image](https://github.com/user-attachments/assets/d741940e-c6d4-4e19-a890-8b419b288ca5)
