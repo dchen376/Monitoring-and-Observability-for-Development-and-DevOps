@@ -161,7 +161,23 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
 
       ![image](https://github.com/user-attachments/assets/6033ef5c-bfe3-4621-8fbe-34a5b24362f0)
 
-    - 
+    - cloud native observability tools
+      ![image](https://github.com/user-attachments/assets/1837eb85-2be3-4123-94ea-b1c442b74126)
+      ![image](https://github.com/user-attachments/assets/ef7dcf29-3122-442b-9897-93e214879217)
+      ![image](https://github.com/user-attachments/assets/bcbb2abd-6384-41f4-b1af-e6e66de178a4)
+      ![image](https://github.com/user-attachments/assets/3db16160-5745-4b86-a307-ff29db324826)
+      ![image](https://github.com/user-attachments/assets/061607f4-609b-4200-a7b8-e9b76e96c32f)
+      ![image](https://github.com/user-attachments/assets/c918f62c-f8ee-4e18-b105-0539be4ef734)
+      ![image](https://github.com/user-attachments/assets/b2cafc3f-047e-4168-ac31-248fc4cc7871)
+      ![image](https://github.com/user-attachments/assets/015f85b7-bff5-4b74-80c1-ee345e914d73)
+      ![image](https://github.com/user-attachments/assets/ef322620-d091-4a7b-a6ce-9b78d589203f)
+      ![image](https://github.com/user-attachments/assets/084f3eb7-cf6f-4b36-9a07-bb7310da9471)
+
+      ![image](https://github.com/user-attachments/assets/56e61a41-08a9-4df4-9c63-7899cec69b73)
+
+
+ 
+      
 
       
     
