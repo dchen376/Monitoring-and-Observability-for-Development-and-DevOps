@@ -228,19 +228,15 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
     ![image](https://github.com/user-attachments/assets/91b616be-544b-438a-9386-3c69c00e766a)
 
   - **openTelemetry** (an observability framework)
-
-    
-
-
-
-
-
   
-
 
 
   
 - (3) monitoring containers
+  - tracing for container-based applications
+  - 
+  - lab: Kubernetes configuration for tracing
+  
 
 
 ## V. Final Assessment
