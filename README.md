@@ -214,8 +214,15 @@ https://www.coursera.org/learn/monitoring-and-observability-for-development-and-
     ![image](https://github.com/user-attachments/assets/51d548ac-4224-4918-9c44-b4840b2d704b)
 
   - **distributed tracing tools** (micro view)
-  - 
+    ![image](https://github.com/user-attachments/assets/eeb2d9d0-6574-40c8-81c9-41f286b6e815)
 
+    ![image](https://github.com/user-attachments/assets/d741940e-c6d4-4e19-a890-8b419b288ca5)
+
+    ![image](https://github.com/user-attachments/assets/62cc7297-349b-4a0e-aa94-e9be999d6d59)
+
+    ![image](https://github.com/user-attachments/assets/b8909d32-62ff-42d7-9d99-66454684226e)
+
+![image](https://github.com/user-attachments/assets/91b616be-544b-438a-9386-3c69c00e766a)
 
     
 
